@@ -1,20 +1,7 @@
-### Hi there 👋
-
-
-- 🔭 Je travaille actuellement sur...
-- 🌱 J'apprends actuellement...
-- 👯 Je cherche à collaborer sur...
-- 🤔 Je cherche de l'aide avec...
-- 💬 Posez-moi des questions sur...
-- 📫 Comment me joindre :...
-- 😄 Pronoms :...
-- ⚡ Anecdote amusante :...
-
-
 ### Hello ! 👋 Je suis un ingénieur Réseau.
 
 - 🔭 Je travail avec les technologies telles que Docker, Kubernetes, Helm, Python, ...
-- 🌱 Fort d'une expérience en tant que ingenieur réseau, 
+- 🌱 Avec une solide expérience en tant qu'ingénieur réseau, je suis spécialisé dans l'installation, la réparation et l'optimisation des infrastructures réseau au sein d'une entreprise.
 - ⚡ Un fait amusant : je suis toujours en mode apprentissage, donc même si je ne peux pas tout résoudre, n'hésitez pas à demander, nous trouverons des solutions ensemble.
 
 
@@ -42,14 +29,10 @@ N'hésitez pas si vous avez d'autres demandes ! 😊
 ![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 ![Adobe Audition](https://a11ybadges.com/badge?logo=adobeaudition)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diansow&theme=default)
 [](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diansow&theme=default) [![Dian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diansow&theme=algolia)](https://github.com/Diansow/github-readme-stats) 
-
